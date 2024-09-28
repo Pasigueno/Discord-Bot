@@ -206,4 +206,6 @@ module.exports.countries = [
 	['Samoa	', 1, 0, 0, 0, 'Microstates', '🇼🇸'],
 	['São Tomé and Príncipe	', 1, 0, 0, 0, 'Microstates', '🇸🇹'],
 	['Nauru', 1, 0, 0, 0, 'Microstates', '🇳🇷'],
+	['Bektashi', 1, 0, 0, 0 'Microstates', '🇦🇱🏙️'],
+
 ];
